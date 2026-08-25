@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/akshat4518/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0622-design-circular-queue](https://github.com/akshat4518/DSA/tree/master/0622-design-circular-queue) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/akshat4518/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/akshat4518/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/akshat4518/DSA/tree/master/0219-contains-duplicate-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/akshat4518/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sliding Window
 |  |
 | ------- |
