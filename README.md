@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/akshat4518/DSA/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/akshat4518/DSA/tree/master/0205-isomorphic-strings) |
 | [1927-sum-game](https://github.com/akshat4518/DSA/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akshat4518/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Greedy
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/akshat4518/DSA/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/akshat4518/DSA/tree/master/0219-contains-duplicate-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/akshat4518/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sliding Window
