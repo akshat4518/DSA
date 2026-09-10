@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/akshat4518/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0622-design-circular-queue](https://github.com/akshat4518/DSA/tree/master/0622-design-circular-queue) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/akshat4518/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/akshat4518/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/akshat4518/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/akshat4518/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/akshat4518/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/akshat4518/DSA/tree/master/0012-integer-to-roman) |
 | [0205-isomorphic-strings](https://github.com/akshat4518/DSA/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/akshat4518/DSA/tree/master/0219-contains-duplicate-ii) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/akshat4518/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/akshat4518/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sliding Window
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/akshat4518/DSA/tree/master/0088-merge-sorted-array) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/akshat4518/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -120,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/akshat4518/DSA/tree/master/1382-balance-a-binary-search-tree) |
+## Counting
+|  |
+| ------- |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/akshat4518/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 <!---LeetCode Topics End-->
