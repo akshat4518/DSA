@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/akshat4518/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/akshat4518/DSA/tree/master/0088-merge-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/akshat4518/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/akshat4518/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0622-design-circular-queue](https://github.com/akshat4518/DSA/tree/master/0622-design-circular-queue) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/akshat4518/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/akshat4518/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/akshat4518/DSA/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/akshat4518/DSA/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/akshat4518/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/akshat4518/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/akshat4518/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akshat4518/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/akshat4518/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -94,11 +96,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/akshat4518/DSA/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/akshat4518/DSA/tree/master/0088-merge-sorted-array) |
 | [0392-is-subsequence](https://github.com/akshat4518/DSA/tree/master/0392-is-subsequence) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/akshat4518/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/akshat4518/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/akshat4518/DSA/tree/master/0088-merge-sorted-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/akshat4518/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/akshat4518/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Prefix Sum
 |  |
@@ -124,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/akshat4518/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/akshat4518/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
