@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/akshat4518/DSA/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/akshat4518/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/akshat4518/DSA/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/akshat4518/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/akshat4518/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/akshat4518/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0622-design-circular-queue](https://github.com/akshat4518/DSA/tree/master/0622-design-circular-queue) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/akshat4518/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/akshat4518/DSA/tree/master/0392-is-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/akshat4518/DSA/tree/master/0940-distinct-subsequences-ii) |
 ## Divide and Conquer
