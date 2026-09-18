@@ -3,13 +3,14 @@ class Solution:
         def dfs(node, path, result):
             if not node:
                 return
-            path += str(node.val)
+            path.append(str(node.val))
             if not node.left and not node.right:
-                result.append(path)
+                result.append('->'.join(path))
             else:
-                dfs(node.left, path + '->', result)
-                dfs(node.right, path + '->', result)
+                dfs(node.left, path, result)
+                dfs(node.right, path, result)
+            path.pop()  # Backtrack by removing the last element
 
         result = []
-        dfs(root, '', result)
-        return result 
+        dfs(root, [], result)
+        return result
