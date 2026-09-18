@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/akshat4518/DSA/tree/master/0049-group-anagrams) |
 | [0171-excel-sheet-column-number](https://github.com/akshat4518/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/akshat4518/DSA/tree/master/0205-isomorphic-strings) |
+| [0257-binary-tree-paths](https://github.com/akshat4518/DSA/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/akshat4518/DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/akshat4518/DSA/tree/master/0392-is-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/akshat4518/DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -129,10 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/akshat4518/DSA/tree/master/0257-binary-tree-paths) |
 | [1382-balance-a-binary-search-tree](https://github.com/akshat4518/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/akshat4518/DSA/tree/master/0257-binary-tree-paths) |
 | [1382-balance-a-binary-search-tree](https://github.com/akshat4518/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/akshat4518/DSA/tree/master/0257-binary-tree-paths) |
 | [1382-balance-a-binary-search-tree](https://github.com/akshat4518/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Counting
 |  |
@@ -155,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/akshat4518/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/akshat4518/DSA/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
