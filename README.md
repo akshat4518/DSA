@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/akshat4518/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/akshat4518/DSA/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/akshat4518/DSA/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/akshat4518/DSA/tree/master/0049-group-anagrams) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/akshat4518/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [1382-balance-a-binary-search-tree](https://github.com/akshat4518/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Tree
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/akshat4518/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/akshat4518/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/akshat4518/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
