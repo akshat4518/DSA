@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/akshat4518/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/akshat4518/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0622-design-circular-queue](https://github.com/akshat4518/DSA/tree/master/0622-design-circular-queue) |
+| [0713-subarray-product-less-than-k](https://github.com/akshat4518/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/akshat4518/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/akshat4518/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akshat4518/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/akshat4518/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0713-subarray-product-less-than-k](https://github.com/akshat4518/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akshat4518/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Two Pointers
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/akshat4518/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [3903-smallest-stable-index-i](https://github.com/akshat4518/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/akshat4518/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/akshat4518/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0713-subarray-product-less-than-k](https://github.com/akshat4518/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1382-balance-a-binary-search-tree](https://github.com/akshat4518/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
