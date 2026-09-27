@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/akshat4518/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akshat4518/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/akshat4518/DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/akshat4518/DSA/tree/master/0392-is-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/akshat4518/DSA/tree/master/0940-distinct-subsequences-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akshat4518/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1927-sum-game](https://github.com/akshat4518/DSA/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akshat4518/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Greedy
@@ -182,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/akshat4518/DSA/tree/master/1352-product-of-the-last-k-numbers) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akshat4518/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
