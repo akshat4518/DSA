@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/akshat4518/DSA/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/akshat4518/DSA/tree/master/0049-group-anagrams) |
+| [0151-reverse-words-in-a-string](https://github.com/akshat4518/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/akshat4518/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/akshat4518/DSA/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/akshat4518/DSA/tree/master/0257-binary-tree-paths) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/akshat4518/DSA/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/akshat4518/DSA/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/akshat4518/DSA/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/akshat4518/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/akshat4518/DSA/tree/master/0392-is-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/akshat4518/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Sorting
