@@ -150,11 +150,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/akshat4518/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/akshat4518/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0257-binary-tree-paths](https://github.com/akshat4518/DSA/tree/master/0257-binary-tree-paths) |
 | [1382-balance-a-binary-search-tree](https://github.com/akshat4518/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/akshat4518/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0257-binary-tree-paths](https://github.com/akshat4518/DSA/tree/master/0257-binary-tree-paths) |
 | [1382-balance-a-binary-search-tree](https://github.com/akshat4518/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/akshat4518/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/akshat4518/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0257-binary-tree-paths](https://github.com/akshat4518/DSA/tree/master/0257-binary-tree-paths) |
 | [1382-balance-a-binary-search-tree](https://github.com/akshat4518/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Counting
