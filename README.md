@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/akshat4518/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshat4518/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/akshat4518/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0287-find-the-duplicate-number](https://github.com/akshat4518/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/akshat4518/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0622-design-circular-queue](https://github.com/akshat4518/DSA/tree/master/0622-design-circular-queue) |
 | [0713-subarray-product-less-than-k](https://github.com/akshat4518/DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/akshat4518/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/akshat4518/DSA/tree/master/0389-find-the-difference) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/akshat4518/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Linked List
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/akshat4518/DSA/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/akshat4518/DSA/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/akshat4518/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/akshat4518/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/akshat4518/DSA/tree/master/0392-is-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/akshat4518/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Sorting
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akshat4518/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/akshat4518/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/akshat4518/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0287-find-the-duplicate-number](https://github.com/akshat4518/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/akshat4518/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/akshat4518/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1382-balance-a-binary-search-tree](https://github.com/akshat4518/DSA/tree/master/1382-balance-a-binary-search-tree) |
@@ -200,4 +204,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akshat4518/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/akshat4518/DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/akshat4518/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
