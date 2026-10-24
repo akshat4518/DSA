@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/akshat4518/DSA/tree/master/0171-excel-sheet-column-number) |
 | [1352-product-of-the-last-k-numbers](https://github.com/akshat4518/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1927-sum-game](https://github.com/akshat4518/DSA/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/akshat4518/DSA/tree/master/2409-count-days-spent-together) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/akshat4518/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/akshat4518/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/akshat4518/DSA/tree/master/3871-count-commas-in-range-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/akshat4518/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akshat4518/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1927-sum-game](https://github.com/akshat4518/DSA/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/akshat4518/DSA/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akshat4518/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Greedy
 |  |
