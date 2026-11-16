@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/akshat4518/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/akshat4518/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0257-binary-tree-paths](https://github.com/akshat4518/DSA/tree/master/0257-binary-tree-paths) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/akshat4518/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1382-balance-a-binary-search-tree](https://github.com/akshat4518/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/akshat4518/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/akshat4518/DSA/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/akshat4518/DSA/tree/master/0257-binary-tree-paths) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/akshat4518/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1382-balance-a-binary-search-tree](https://github.com/akshat4518/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/akshat4518/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/akshat4518/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/akshat4518/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/akshat4518/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1382-balance-a-binary-search-tree](https://github.com/akshat4518/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/akshat4518/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/akshat4518/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0257-binary-tree-paths](https://github.com/akshat4518/DSA/tree/master/0257-binary-tree-paths) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/akshat4518/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1382-balance-a-binary-search-tree](https://github.com/akshat4518/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Counting
 |  |
@@ -220,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/akshat4518/DSA/tree/master/0200-number-of-islands) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/akshat4518/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Union-Find
 |  |
 | ------- |
