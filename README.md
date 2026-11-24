@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/akshat4518/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/akshat4518/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/akshat4518/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/akshat4518/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akshat4518/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/akshat4518/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/akshat4518/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/akshat4518/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1927-sum-game](https://github.com/akshat4518/DSA/tree/master/1927-sum-game) |
 | [2409-count-days-spent-together](https://github.com/akshat4518/DSA/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/akshat4518/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/akshat4518/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/akshat4518/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/akshat4518/DSA/tree/master/3871-count-commas-in-range-ii) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/akshat4518/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/akshat4518/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akshat4518/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/akshat4518/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Two Pointers
 |  |
 | ------- |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/akshat4518/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akshat4518/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Backtracking
 |  |
@@ -256,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/akshat4518/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0968-binary-tree-cameras](https://github.com/akshat4518/DSA/tree/master/0968-binary-tree-cameras) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/akshat4518/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/akshat4518/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
